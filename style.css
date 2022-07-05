@@ -1,0 +1,146 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: ;
+}
+.header-sec1{
+    background-image: url("images/donation1.jpg");
+    background-repeat: no-repeat;
+    height: 600px;
+    background-size: cover;
+}
+.header-h1{
+    text-align: center;
+    padding-top: 200px;
+    color: white;
+    font-size: 3rem;
+}
+.header-p{
+    text-align: center;
+    color: wheat;
+    padding-top: 30px;
+    font-size: 1.3rem;
+}
+.header-btn{
+  margin-top:40px ;
+  margin-left: 50%;
+  padding: 10px;
+  border: none;
+  background-color: orange;
+  width: 120px;
+  border-radius: 5px;
+}
+.section-1{
+    margin:10px;
+    margin-top: 70px;
+    text-align: center;
+}
+.section-1 .sec-h1{
+    font-size: 3rem;
+    color: orange;
+}
+.section-1 p{
+    margin-top: 10px;
+    font-size: 1.3rem;
+    color: gray;
+}
+.section-taka{
+    display: flex;
+    width: 80%;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 30px;
+    justify-content: space-between;
+}
+.section-taka .div1{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border: 2px solid red;
+    padding: 40px;
+}
+.section-taka .div1 h1{
+    color: gray;
+      font-size: 2.5rem;
+}
+#div-one{
+    border: none;
+}
+.div2{
+    background-image:linear-gradient(rgb(224, 130, 130) , red);
+}
+#div-two h1 {
+    color: gray;
+}
+hr{
+    border: 1px solid gray;
+    width: 80%;
+    margin: 0 auto;
+}
+.btn-2{
+    margin-top: 30px ;
+    padding: 17px;
+    width: 120px;
+    border: none;
+    color: white;
+    background-color: tomato;
+    border-radius: 5px;
+}
+.section-2{
+    margin-top: 100px;
+}
+.section-2 h1{
+    text-align: center;
+    padding: 20px;
+    font-size: 3rem;
+    color: gray;
+}
+.section-2 p{
+    text-align: center;
+    font-size: 1.2rem;
+    color: orange;
+}
+.sec-2-part{
+    display: flex;
+    margin-top: 50px;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+.sec-main-part1 img{
+    width: 20%;
+}
+.sec-main-part1{
+    padding: 30px;
+    background-color: gray;
+    margin: 10px;
+    border-radius: 8px;
+    margin-top: 50px;
+}
+.sec-main-part1 h2{
+    color: wheat;
+    padding-bottom: 10px;
+}
+.sec-main-part1 p{
+    text-align: justify;
+    padding-top: 10px;
+}
+#color-1{
+    background-color: rgb(199, 102, 102);
+}
+#color-2{
+    background-color: cadetblue;
+}
+footer{
+    margin-top:50px ;
+    text-align: center;
+    height: 100px;
+    background-color: rgb(58, 50, 50);
+}
+footer h1{
+    color: orange;
+}
+footer p{
+    color: white;
+    padding-top: 20;
+}
