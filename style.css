@@ -144,3 +144,35 @@ footer p{
     color: white;
     padding-top: 20;
 }
+.main-sec-3{
+    display: flex;
+}
+.sec-3{
+    width: 50%;
+}
+.sec-3 h1{
+    margin-top: 100px;
+    margin-bottom: 40px;
+    color: orange;
+}
+.sec-3 p{
+    color: black;
+    font-size: 25px;
+}
+.sec-3 button{
+    margin-top: 50px;
+    margin-left: 200px;
+    padding: 15px;
+    border: none;
+    background-color:orange;
+    border-radius: 5px;
+}
+.sec-3 img{
+    width: 90%;
+    margin-top: 100px;
+    border-radius: 20px;
+}
+.main-sec-3{
+    width: 90%;
+    margin: 0 auto;
+}
